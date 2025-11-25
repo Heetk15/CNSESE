@@ -67,7 +67,7 @@ def mi(a,b):
 
     mi=t1
     if mi<0:
-        t1+=b
+        mi+=b
     return mi
 
 p=int(input("Enter P"))
